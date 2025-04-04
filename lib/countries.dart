@@ -1307,8 +1307,8 @@ const List<Country> countries = [
     flag: "🇳🇬",
     code: "NG",
     dialCode: "234",
-    minLength: 10,
-    maxLength: 11,
+    minLength: 9,
+    maxLength: 13,
   ),
   Country(
     name: "Niue",
